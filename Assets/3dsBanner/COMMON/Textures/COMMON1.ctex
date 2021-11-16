@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NintendoWareIntermediateFile>
+	<MetaData>
+		<Create Author="sakaguchi_tsubasa" Date="2010-12-02T16:15:21" Source="COMMON1.ctex">
+			<ToolDescriptions Name="NW4C_ctex for Photoshop 11.0.2" Version="0.8.0" />
+		</Create>
+	</MetaData>
+	<GraphicsContentCtr Namespace="" Version="0.7.0">
+		<Textures>
+			<ImageTextureCtr Name="" Width="8" Height="8" MipmapSize="1" Path="COMMON1.ctex" Encoding="Base64" Format="L4">
+				<Images>
+					<PixelBasedImageCtr>//////////////////////////////////////////8=</PixelBasedImageCtr>
+				</Images>
+			</ImageTextureCtr>
+		</Textures>
+	</GraphicsContentCtr>
+</NintendoWareIntermediateFile>
